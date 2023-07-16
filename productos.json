@@ -1,0 +1,38 @@
+[
+    {
+        "title": "agua",
+        "description": "gaseosa",
+        "price": 850,
+        "thumbnail": "no foto",
+        "code": "1235",
+        "stock": 1000,
+        "id": 1
+    },
+    {
+        "title": "fernet",
+        "description": "aperitivo",
+        "price": 850,
+        "thumbnail": "no foto",
+        "code": "1235",
+        "stock": 1000,
+        "id": 2
+    },
+    {
+        "title": "hielo",
+        "description": "hielo en bolsa",
+        "price": 850,
+        "thumbnail": "no foto",
+        "code": "1235",
+        "stock": 1000,
+        "id": 3
+    },
+    {
+        "title": "campari",
+        "description": "lala",
+        "price": 850,
+        "thumbnail": "no foto",
+        "code": "1235",
+        "stock": 15,
+        "id": 4
+    }
+]
